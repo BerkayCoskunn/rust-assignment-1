@@ -1,8 +1,4 @@
-# homework 2 - my answers
-
-**Name:** Berkay Coskun
-
-hi, here are my answers for homework 2.
+# homework 2 
 
 ## part 1 - operators (tasks 1-5)
 
